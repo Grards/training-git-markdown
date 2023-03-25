@@ -10,7 +10,7 @@ HTML | is | ok
 **CSS** | **is** | **ok**
 JS | is | `in progress`
 
-[Go on Becode !](https://becode.org/fr/)[¹]
+[Go on Becode !](https://becode.org/fr/)[^1]
 
 #### And now, a little of code ...
 
@@ -19,4 +19,4 @@ let example = "JavasScript syntax highlighting";
 print example;
 ```
 
-[¹]: Seriously, you must visit this page !
+[^1]: Seriously, you must visit this page !
