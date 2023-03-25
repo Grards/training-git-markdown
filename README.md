@@ -1,6 +1,6 @@
 ## Training to use various git and markdown commands...
 
-<img src="https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rqry25dH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ifumskebgj4d7h0w54uc.png" width="350"/>
 
 *Let's test some markdowns !*<br>
 [Go on Becode !](https://becode.org/fr/)[^1]
