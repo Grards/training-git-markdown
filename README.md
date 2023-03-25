@@ -10,5 +10,13 @@ HTML | is | ok
 **CSS** | **is** | **ok**
 JS | is | `in progress`
 
-[Go on Becode !](https://becode.org/fr/)
+[Go on Becode !](https://becode.org/fr/)[¹]
 
+#### And now, a little of code ...
+
+```javascript
+let example = "JavasScript syntax highlighting";
+print example;
+```
+
+[¹]: Seriously, you must visit this page !
